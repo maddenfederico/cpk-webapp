@@ -1,0 +1,434 @@
+No Action
+File > New
+Layers > New Layer
+Custom Shape Tool
+Paths > Stroke Path
+Brush Tool
+Brushes > New Brush Preset
+Layer > Layer Style > Drop Shadow
+Layer > Layer Style > Inner Glow
+Layer > Layer Style > Satin
+Layer > Layer Style > Pattern Overlay
+Vertical Type Tool
+Layer > Layer Style > Inner Shadow
+Layer > Layer Style > Outer Glow
+Layer > Layer Style > Gradient Overlay
+Edit > Free Transform
+Edit > Transform > Distort
+File > Open
+Image > Duplicate
+Paint Bucket Tool
+Layer Panel > Blend Mode
+Layer > New Adjustment Layer > Color Balance
+Layer > New Adjustment Layer > Invert
+Lasso Tool
+Layer > New Adjustment Layer > Curves
+Layer > Group Layers
+Move Tool
+Layer > Layer Mask > Apply
+Eraser Tool
+Filter > Blur > Gaussian Blur
+Layer > Create Clipping Mask
+Dodge Tool
+Burn Tool
+Edit > Stroke
+Layer > Rename Layer
+Magic Wand Tool
+Layer > Duplicate Layer
+Edit > Copy
+Layer > Rename Group
+Image > Adjustments > Hue/Saturation
+Edit > Fill
+Edit > Cut
+Layer > New Adjustment Layer > Brightness/Contrast
+Layer > New Adjustment Layer > Gradient Map
+Layer > New Adjustment Layer > Hue/Saturation
+Layer > New Adjustment Layer > Levels
+Edit > Paste
+Edit > Transform > Perspective
+Adjustment Layer Panel > BlackandWhite
+Apply Mask Icon
+Adjustment Layer Panel > Levels
+3D > Render 3D Layer
+Quick Selection Tool
+Layer > Flatten Image
+Filter > Brush Strokes > Accented Edges
+Ellipse Tool
+Horizontal Type Tool
+Layer > Rasterize > Layer
+Layer > Merge Layers
+Polygonal Lasso Tool
+Gradient Tool
+Edit > Transform > Warp
+Eye Icon
+Layers > Merge Layers
+Filter > Sharpen > Sharpen More
+Layer Panel > Opacity
+Pen Tool
+Paths > Fill Path
+File > Save As
+Rectangular Marquee Tool
+Layers > Blending Options
+Layer > New > Layer
+Paths Panel
+Direct Selection Tool
+Edit > Transform > Flip Vertical
+Clone Stamp Tool
+Layer > Change Layer Content > Levels
+Eyedropper Tool
+Layers > Duplicate Layer
+Layer > Duplicate Group
+Layer > Layer Style > Blending Options
+Edit > Transform > Rotate
+Color Picker
+Filter > Render > Fibers
+Brush Presets Panel
+Filter > Other > High Pass
+Layer > New Adjustment Layer > Photo Filter
+Filter > Blur > Motion Blur
+Image > Adjustments > Shadow/Highlight
+Layer > Layer Mask > Reveal All
+Select > Inverse
+Edit > Transform > Flip Horizontal
+Gradient Overlay Panel
+Character Panel
+Layer > Rasterize > Type
+Brush Panel
+Line Tool
+Layers > New Group from Layers
+Select > Load Selection
+Select > Deselect
+Select > Modify > Contract
+Zoom Tool
+Reset Color Tool
+Select > All
+Spot Healing Brush Tool
+Brushes > Load Brushes
+Filter > Render > Lens Flare
+Smudge Tool
+Elliptical Marquee Tool
+Layer > Layer Style > Copy Layer Style
+Layer > Layer Style > Paste Layer Style
+Layers > New Group
+Layer Style Icon
+Selection Tool
+Filter > Render > Lighting Effects
+Layer > New Adjustment Layer > Black and White
+Layer > New Adjustment Layer > Selective Color
+Image > Adjustments > Contrast
+Image > Canvas Size
+New Layer Icon
+Image > Adjustments > Invert
+Layers > Palette Options
+Thumbnails Panel
+Layer > Layer Style > Bevel and Emboss
+Layer > Layer Style > Color Overlay
+Layer > New > Layer via Cut
+Select > Color Range
+File > Open As Smart Object
+Edit > Copy Merged
+Filter > Distort > Polar Coordinates
+Layer > Arrange > Bring to Front
+Layer > Vector Mask > Enable Vector Mask
+Rectangle Tool
+Layer > Layer Style > Stroke
+Filter > Distort > Wave
+Slice Tool
+Marquee Tool
+Filter > Stylize > Emboss
+Image > Adjustments > Levels
+Filter > Liquify
+Image > Adjustments > Curves
+Edit > Fill Selection
+Layer Panel > Layer Style
+Image > Adjustments > Auto Levels
+Image > Adjustments > Channel Mixer
+Layer > New Fill Layer > Solid Color
+Window > Brush
+Window > Tool Presets
+History > New Document
+View > New Guide
+Rounded Rectangle Tool
+Layer > Layer Mask > Enable Layer Mask
+Image > Apply Image
+Layer > New Adjustment Layer > Exposure
+Filter > Render > Clouds
+Filter > Render > Difference Clouds
+Filter > Stylize > Glowing Edges
+Edit > Preferences > Guides Grid Slices and Count
+Layer > Merge Down
+Image > Crop
+Edit > Define Pattern
+Type Tools Gallery
+Image > Mode > RGB Color
+Eye Dropper Tool
+View > Zoom In
+File > Save
+View > Zoom Out
+Paths > Delete Path
+Color Picker Tool
+File > Save for Web and Devices
+Filter > Distort > Twirl
+Image > Mode > Grayscale
+Filter > Distort > Displace
+Filter > Blur > Radial Blur
+Window > Actions
+Layer > New Fill Layer > Gradient
+Filter > Sharpen > Sharpen Edges
+Blur Tool
+Filter > Distort > Glass
+Filter > Artistic > Watercolor
+Filter > Artistic > Smudge Stick
+Channels Panel
+Adjustment Layer Panel > Curves
+Channels > Duplicate Channel
+Channels > Delete Channel
+Layer Panel > Fill Opacity
+Image > Adjustments > Gradient Map
+Image > Adjustments > Desaturate
+Edit > Define Brush Preset
+Layer > Rasterize > Shape
+Edit > Puppet Warp
+Filter > Noise > Add Noise
+Filter > Sharpen > Unsharp Mask
+Layer > Layer Mask > Hide All
+Path Selection Tool
+Edit > Transform > Scale
+Layer > New > Layer via Copy
+View > Show > Grid
+View > Snap To > Grid
+Layer > Merge Shape
+Layers > Convert to Smart Object
+Pencil Tool
+Adjustment Layer Panel > HueSaturation
+Invert Icon
+Filter > Sketch > Bas Relief
+Filter > Sketch > Chrome
+Layers Panel
+Layer > Type > Convert to Shape
+Select > Deselect Layers
+Crop Tool
+Filter > Pixelate > Mosaic
+Filter > Stylize > Find Edges
+Filter > Noise > Median
+Filter > Other > Minimum
+Art History Brush Tool
+Layer > Merge Visible
+Window > Paths
+Filter > Camera Raw Filter
+Filter > Blur > Surface Blur
+Filter > Sharpen > Smart Sharpen
+Select > Feather
+3D Panel
+3D > Render Settings
+View > Show > 3D Axis
+Scene Panel
+3D > 3D Paint Mode > Diffuse
+Adjustment Layer Panel > SelectiveColor
+Adjustment Layer Panel > Vibrance
+Filter > Brush Strokes > Spatter
+3D > New 3D Postcard from File
+3D > Repousse > Text Layer
+3D > Merge 3D Layers
+Meshes Panel
+3D > New Spot Light
+Layer > Delete Layer
+Filter > Blur > Lens Blur > Iris Blur
+Blur Tools Panel
+Panel > Show Options Bar
+Layer > New Adjustment Layer > Vibrance
+Filter > Artistic > Cutout
+Polygon Tool
+Mask Mode Icon
+Filter > Artistic > Dry Brush
+Image > Adjustments > Match Color
+Layer > New > Layer from Background
+Filter > Pixelate > Color Halftone
+File > Place
+Image > Image Size
+Image > Reveal All
+Color Panel
+Window > Character
+Filter > Artistic > Plastic Wrap
+Edit > Preset Manager
+Layer > Smart Objects > Rasterize
+Window > Brushes
+Layer > Type > Warp Text
+Layer > Smart Objects > Convert to Smart Object
+Select > Refine Edge
+Layer > Layer Mask > Reveal Selection
+Image > Adjustments > Brightness/Contrast
+Select > Modify > Feather
+Enhance > Unsharp Mask
+Styles > Text Only
+Enhance > Adjust Lighting > Brightness/Contrast
+Properties Panel
+Layer > Type > Create Work Path
+Filter > Blur > Blur
+Image > Adjustments > Color Balance
+Add Anchor Point Tool
+Layer > Layer Style > Clear Layer Style
+Layer > New > Group
+Measurement Log > Select All
+Mixer Brush Tool
+Filter > Texture > Texturizer
+Patch Tool
+Delete Icon
+3D > New Shape From Layer > Sphere
+Panel > Show Brush Presets
+Background Eraser Tool
+Image > Adjustments > Selective Color
+Filter > Blur > Smart Blur
+Layer > New Adjustment Layer > Channel Mixer
+Image > Adjustments > Shadow
+Gradient Editor
+Link Icon
+Image > Adjustments > Brightness
+Filter > Sharpen > Sharpen
+Reset Tool Options
+Sharpen Tool
+Adjustment Layer Panel > ColorBalance
+Edit > Transform > Rotate 180 degrees
+Filter > Brush Strokes > Sprayed Strokes
+Filter > Brush Strokes > Angled Strokes
+3D > New 3D Extrusion from Selected Layer
+3D > Snap Object to Ground Plane
+File > Close
+3D > New Infinite Light
+Image > Mode > Lab Color
+Edit > Transform > Rotate 90 degrees CW
+Layer > Arrange > Send Backward
+Window > Channels
+Filter > Distort > Spherize
+Channel > Select
+Image > Adjustments > Black and White
+Window > Animation
+Actions > Play Action
+Layer > Duplicate Layer/Group
+Edit > Transform > Rotate 90 degrees CCW
+Filter > Convert for Smart Filters
+Cap Icon
+3D > 3D Paint Mode > Bump
+Edit > Transform > Forward Warp
+Filter > Pixelate > Crystallize
+Filter > Texture > Grain
+Freeform Pen Tool
+Gradient Map Icon
+Image > Adjustments > Variations
+Tool Presets
+Layer > New Fill Layer > Pattern
+Convert Point Tool
+Healing Brush Tool
+Paths > New Path
+Enhance > Adjust Color > Color Variations
+Channels > New Channel
+Window > Arrange > New Window
+Select > Transform Selection
+Filter > Distort > Ripple
+Image > Resize > Image Size
+Layer > Layer Mask > Hide Selection
+Layer > Hide Layers
+Image > Adjustments > Photo Filter
+Paths > Make Selection
+Filter > Distort > Lens Correction
+Image > Adjustments > Saturation
+Window > Brush Presets
+Select > Refine Radius
+Layer > New > Group from Layers
+Switch Colors Icon
+Swatches Panel
+Layer > Rasterize > Smart Object
+Hand Tool
+Image > Mode > CMYK Color
+Filter > Noise > Reduce Noise
+Select > Save Selection
+Filter > Distort > ZigZag
+Image > Adjustments > Threshold
+Hue/Saturation Adjustments Panel
+Actions > New Set
+Actions > New Action
+Actions Panel
+Filter > Other > Maximum
+Image > Mode > Duotone
+Filter > Artistic > Paint Daubs
+Render Icon
+View > Rulers
+Filter > Distort > Shear
+Image > Rotate Canvas > 90 degrees CW
+Filter > Sketch > Water Paper
+Sponge Tool
+Edit > Undo
+Edit > Fade
+Layer > Layer Mask > Delete
+Layer > Arrange > Send to Back
+Toggle Layer Visibility Icon
+Paths > Palette Options
+Select > Modify > Expand
+Edit > Free Transform Path
+Magnetic Lasso Tool
+Filter > Distort > Diffuse Glow
+Paths > Make Work Path
+Filter > Blur > Tilt-Shift
+Blur Effects Panel
+Adjustment Panel
+Filter > Blur > Average
+Filter > Texture > Stained Glass
+Select > Modify > Smooth
+Ruler Tool
+Layers > Merge Visible
+Edit > Transform > Again
+Swatches > New Swatch
+Filter > Pixelate > Mezzotint
+Pattern Panel
+Layer > Change Layer Content > Curves
+Bucket Tool
+Layer > New Adjustment Layer > Threshold
+Adjustment Layer Panel > Threshold
+File > Place Embedded
+Filter > Sketch > Photocopy
+Image > Trim
+Filter > Brush Strokes > Crosshatch
+Vector Mask Link Icon
+Filter > Filter Gallery
+Filter > Stylize > Wind
+Filter > Sketch > Halftone Pattern
+Filter > Other > Offset
+Adjustment Layer Panel > ChannelMixer
+View > Snap
+Image > Rotate Canvas > Arbitrary
+Filter > Artistic > Poster Edges
+History Brush Tool
+Notes Panel
+Image > Adjustments > Replace Color
+Edit > Transform > Skew
+Adjustment Layer Panel > GradientMap
+Filter > Last Filter
+Adjustments Panel
+Timeline Panel
+Stroke Options Panel
+Image > Adjustments > Vibrance
+Layer > Matting > Defringe
+Layer > Layer Style > Scale Effects
+Adjustment Layer Panel > BrightnessContrast
+Layer > Lock All Layers
+Window > Adjustments
+Edit > Content-Aware Scale
+Channels > Channel Options
+Navigator Panel
+Filter > Vanishing Point
+Edit > Clear
+Actions > Button Mode
+Image > Resize > Canvas Size
+File > Automate > Photomerge
+Eyedropper Icon
+Edit > Menus
+Image > Transform > Perspective
+Object > Fill And Stroke
+Filter > Filter Forge > Filter Forge 3
+Window > Info
+Image > Transform > Free Transform
+Q + Quick Mask
+Content-aware-scale options bar
+Smart Filter Icon
+Layer > Smart Objects > New Smart Object via Copy
+Rulers Panel
