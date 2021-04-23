@@ -32,7 +32,7 @@ def hello():
 
 @app.route("/results")
 def results():
-    result = classify(session['text'])
+    result = classify(session.get('text'))
     return render_template("results.html", result=result)
 
 
