@@ -79,7 +79,7 @@ def classify(text):
 
     # pass tokenized text thru model
     model = LSTM(dr=.3)
-    state_dict = torch.load(os.path.join('model', 'model.pt'), map_location=torch.device('cpu'))
+    state_dict = torch.load('s3://creative-procedural-knowledge-bucket/model.pt', map_location=torch.device('cpu'))
     model.load_state_dict(state_dict['model_state_dict'])
 
     model.eval()
