@@ -32,7 +32,7 @@ def hello():
 
 @app.route("/results")
 def results():
-    result = classify(session.get('text'))
+    result = classify(session.get('text', 'There was some weird issue where the results page gets returned before session is updated'))
     return render_template("results.html", result=result)
 
 
